@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Gaurav-create948/My-Dev-PortFolio/static/css/main.dbf1227c.css",
+    "main.js": "/Gaurav-create948/My-Dev-PortFolio/static/js/main.be896cd7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Gaurav-create948/My-Dev-PortFolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my-profile.png": "/Gaurav-create948/My-Dev-PortFolio/static/media/my-profile.009e2890774cfac9d9f6.png",
+    "static/media/Ellipse 1.png": "/Gaurav-create948/My-Dev-PortFolio/static/media/Ellipse 1.0c9c72ecd19dade84ad1.png",
+    "static/media/coding.gif": "/Gaurav-create948/My-Dev-PortFolio/static/media/coding.e97baa7df4a4db43709c.gif",
+    "index.html": "/Gaurav-create948/My-Dev-PortFolio/index.html",
+    "main.dbf1227c.css.map": "/Gaurav-create948/My-Dev-PortFolio/static/css/main.dbf1227c.css.map",
+    "main.be896cd7.js.map": "/Gaurav-create948/My-Dev-PortFolio/static/js/main.be896cd7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Gaurav-create948/My-Dev-PortFolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf1227c.css",
+    "static/js/main.be896cd7.js"
+  ]
+}
